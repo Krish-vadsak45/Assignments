@@ -2,7 +2,7 @@
 
 A modern, high-performance contact management system built with Next.js 15, featuring a stunning glassmorphism UI and robust form validation.
 
-![Portal Preview](./public/preview.png)
+![Portal Preview](./public/image.png)
 
 ## 🌟 Key Features
 
